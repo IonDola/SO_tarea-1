@@ -56,6 +56,7 @@ Borrar archivo viendo el orden de pasos de forma pausada (para pasar de un paso 
 |27/08/2025          |`Creacion del repositorio y publicar el trabajo realizado en GitHub`|20 mins|
 |28/08/2025          |`Realizacion de pruebas de funcionalidad e insercion de codigos de Syscalls faltantes`|10 mins|
 |28/08/2025          |`-Escritura de la documentacion`|2 h|
+
 **Todal de Horas:** 5h 31 mins
 ## 6. Autoevaluación
 - **Estado Final del Programa:** El programa cumple con las especificaciones dadas en las instrucciones de la tarea 1.
